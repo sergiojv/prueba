@@ -1,0 +1,5 @@
+class Principal{
+    public stattic void main(String[]){
+
+    }
+}
